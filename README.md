@@ -29,11 +29,18 @@ A modern, fast, and responsive **personal portfolio website** built to showcase 
 
 ## 📂 Project Structure
 
-os-portfolio/
-├── public/ # Static assets
-├── src/ # Source code
-├── index.html # Main HTML entry point
-├── package.json # Project dependencies
-├── tailwind.config.js
-├── vite.config.ts
-└── tsconfig.json
+- **public/**
+  - Static assets
+- **src/**
+  - Application source code
+- **index.html**
+  - Main HTML entry point
+- **package.json**
+  - Project dependencies
+- **tailwind.config.js**
+  - Tailwind CSS configuration
+- **vite.config.ts**
+  - Vite configuration
+- **tsconfig.json**
+  - TypeScript configuration
+
